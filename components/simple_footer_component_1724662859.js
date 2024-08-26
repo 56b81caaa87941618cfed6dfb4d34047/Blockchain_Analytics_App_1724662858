@@ -16,7 +16,8 @@ Vue.component("simple_footer_component_1724662859", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-white hover:text-pink-200 transition-colors duration-300">
                         © 2023 ChainSight. Empowering blockchain insights. All rights reserved.
-                    </div>
+                        © 2023 ChainSight. Empowering blockchain insights. All rights reserved.
+                        <button class="mt-4 px-4 py-2 bg-white text-purple-600 rounded-lg shadow-md hover:bg-purple-100 transition-colors duration-300">Hello World</button>
                 </div>
             </div>
         </footer> 

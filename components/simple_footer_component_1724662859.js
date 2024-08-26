@@ -8,7 +8,7 @@ Vue.component("simple_footer_component_1724662859", {
                 <div id="footer-content" class="text-center">
                     <div class="flex">
                         <a id="footer-logo-link" href="#" class="flex-1 flex items-center justify-center mb-5 text-2xl font-semibold text-white hover:text-pink-200 transition-colors duration-300">
-                            <img id="footer-logo" src="./images/logo.svg" class="h-6 mr-3 sm:h-9 filter brightness-0 invert" alt="Landwind Logo" />
+                            <img id="footer-logo" src="https://makeinfinite-mentat-test.azurewebsites.net/get_image/Blockchain_Analytics_App_1724662858/logo.svg" class="h-6 mr-3 sm:h-9 filter brightness-0 invert" alt="Landwind Logo" />
                             ChainSight: Blockchain Analytics
                         </a>
                     </div>
